@@ -19,6 +19,8 @@ def main():
     logger.error('This is an error message')
     logger.critical('This is a critical message')
     logger.info("this is test line")
+    logger.info("this is")
+    logger.warning("helllllllllllllo")
 
 if __name__ == '__main__':
     main()
